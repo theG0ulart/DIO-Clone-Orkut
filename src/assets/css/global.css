@@ -1,0 +1,25 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+main.form {
+    width: 80%;
+    height: 80%;
+    margin: 3rem auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px rgb(0,0,0,0.3);
+}
